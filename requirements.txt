@@ -3,7 +3,7 @@ Flask-Bootstrap==3.3.2.1
 Flask-Login==0.2.11
 Flask-Migrate==1.4.0
 Flask-SQLAlchemy==2.0
-Flask-Script==2.0.5
+Flask-Script==2.0.6
 GitHub-Flask==2.0.1
 Jinja2==2.7.3
 Mako==1.0.1
